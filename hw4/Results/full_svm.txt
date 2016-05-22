@@ -1,0 +1,1 @@
+PCA=False, num_comps= 10, kernel=linear, acc: 0.946

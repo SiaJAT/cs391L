@@ -1,0 +1,11 @@
+set title "PCA-SVM Classification Scheme"
+
+set xlabel "Number of Principal Components n"
+set ylabel "F1"
+
+set terminal postscript color
+set size 0.75,0.75
+
+set style data linespoints
+
+plot 'pca.data' 

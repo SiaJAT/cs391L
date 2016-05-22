@@ -1,0 +1,7 @@
+kernel=rbf, tune1=0.0001, tune2=, tune3=, acc: 0.1135
+kernel=rbf, tune1=0.001, tune2=, tune3=, acc: 0.8477
+kernel=rbf, tune1=0.1, tune2=, tune3=, acc: 0.9451
+kernel=rbf, tune1=1.0, tune2=, tune3=, acc: 0.9794
+kernel=rbf, tune1=10.0, tune2=, tune3=, acc: 0.9487
+kernel=rbf, tune1=100.0, tune2=, tune3=, acc: 0.1135
+kernel=rbf, tune1=1000.0, tune2=, tune3=, acc: 0.1135

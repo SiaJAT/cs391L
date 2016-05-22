@@ -1,0 +1,7 @@
+nohup: ignoring input
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype uint8 was converted to float64 by the normalize function.
+  warnings.warn(msg, DataConversionWarning)
+/usr/local/lib/python2.7/dist-packages/sklearn/utils/validation.py:420: DataConversionWarning: Data with input dtype uint8 was converted to float64 by the normalize function.
+  warnings.warn(msg, DataConversionWarning)
+410.11user 3.01system 6:50.70elapsed 100%CPU (0avgtext+0avgdata 1009116maxresident)k
+0inputs+0outputs (0major+415085minor)pagefaults 0swaps

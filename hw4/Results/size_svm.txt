@@ -1,0 +1,6 @@
+kernel=rbf, tune1=1.0, tune2=, tune3=, train_amm=10000, acc: 0.9603
+kernel=rbf, tune1=1.0, tune2=, tune3=, train_amm=20000, acc: 0.9687
+kernel=rbf, tune1=1.0, tune2=, tune3=, train_amm=30000, acc: 0.9741
+kernel=rbf, tune1=1.0, tune2=, tune3=, train_amm=40000, acc: 0.9764
+kernel=rbf, tune1=1.0, tune2=, tune3=, train_amm=50000, acc: 0.9782
+kernel=rbf, tune1=1.0, tune2=, tune3=, train_amm=60000, acc: 0.9794
