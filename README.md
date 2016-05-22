@@ -1,4 +1,5 @@
-# cs391L - some old assignments from Machine Learning
+# cs391L 
+## some old assignments from Machine Learning
 1. hw1 = PCA
 2. hw2 = ICA
 3. hw4 = SVMs
